@@ -26,6 +26,3 @@ To run this notebook, you will need the following Python libraries:
 
 ## 📊 Results
 On the synthetic linearly separable dataset, the custom classifier successfully converges, achieving **100% Training Accuracy**. The final visualization clearly demonstrates how the mathematical formulation $w_0 + w_1x_1 + w_2x_2 = 0$ perfectly separates the two generated clusters.
-
-## 📂 Folder Location
-This notebook belongs in the **02_Linear & Regularized Models** section of the repository.
