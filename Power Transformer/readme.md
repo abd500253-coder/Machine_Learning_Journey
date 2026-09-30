@@ -33,8 +33,3 @@ The notebook compares the **$R^2$ Score** and **Cross-Validation Score** across 
 3. Post Yeo-Johnson Transformation
 
 By comparing the distribution plots (Before vs. After) and the model scores, we can observe how making the data more Gaussian-like directly impacts the accuracy of the Linear Regression model.
-
-## 💻 How to Use
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
